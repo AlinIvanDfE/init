@@ -1,0 +1,2 @@
+# init
+account init
